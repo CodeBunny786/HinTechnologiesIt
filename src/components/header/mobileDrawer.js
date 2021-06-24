@@ -9,7 +9,7 @@ import { Facebook, Twitter, Github, Dribbble } from 'components/customIcon';
 import { Link as ScrollLink, animateScroll as scroll } from 'react-scroll';
 import menuItems from './header.data';
 import Logo from 'components/logo';
-import LogoDark from 'assets/logo.svg';
+import LogoDark from 'assets/logo.png';
 
 const social = [
   {
