@@ -11,7 +11,7 @@ export default function Logo() {
         variant: 'links.logo',
       }}
     >
-      <Image width={100} height={70} src={logo} sx={{ display: 'flex' }} alt="Hin technologies" />
+      <Image width={100} height={70} src={logo} sx={{ display: 'flex' }} alt="Hin technologies 質" />
     </Link>
   );
 }
