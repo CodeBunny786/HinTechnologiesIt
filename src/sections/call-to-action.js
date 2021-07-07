@@ -9,7 +9,7 @@ const CallToAction = () => {
         <Box sx={styles.inner}>
           <Heading as="h3">
             Hire the world’s best developers <br />
-            and designers around!
+            and designers around in Most Cost Effective Manner!
           </Heading>
           <Box sx={styles.btnWrapper}>
             <Button sx={styles.btn}>HIRE DEVELOPERS</Button>
