@@ -36,7 +36,7 @@ const Banner = () => {
                 Subscribe
               </Button>
             </Box>
-            <Box sx={styles.partner}>
+            {/* <Box sx={styles.partner}>
               <Text as="span">Sponsored by:</Text>
               <Box as="div">
                 <Image src={img1} alt="" />
@@ -47,7 +47,7 @@ const Banner = () => {
               <Box as="div">
                 <Image src={img3} alt="" />
               </Box>
-            </Box>
+            </Box> */}
           </Box>
           <Box sx={styles.image}>
             <Image src={bannerImg} alt="" />
