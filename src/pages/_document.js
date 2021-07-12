@@ -10,6 +10,7 @@ class CustomDocument extends Document {
     return (
       <Html lang="en-US">
         <Head>
+        <meta name="google-site-verification" content="WcEdpViiSARD30IrEKdnAgDJFQ4Uy8-V4YSR7hoeCz0" />
           <link
             href="https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap"
             rel="stylesheet"

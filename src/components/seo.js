@@ -43,6 +43,7 @@ export default function SEO({
   ].concat(meta);
   return (
     <Head>
+      <meta name="google-site-verification" content="WcEdpViiSARD30IrEKdnAgDJFQ4Uy8-V4YSR7hoeCz0" />
       <title>{title}</title>
       {metaData.map(({ name, content }, i) => (
         <meta key={i} name={name} content={content} />
