@@ -30,6 +30,7 @@ export default function Layout({ children }) {
   return (
     <React.Fragment>
       <Sticky enabled={isSticky} innerZ={1000}>
+      <meta name="google-site-verification" content="WcEdpViiSARD30IrEKdnAgDJFQ4Uy8-V4YSR7hoeCz0" />
         <Header className={`${isSticky ? 'sticky' : 'unSticky'}`} />
       </Sticky>
       <Waypoint

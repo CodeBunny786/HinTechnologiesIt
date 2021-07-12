@@ -17,10 +17,10 @@ import BoostAgencies from 'sections/boost-agencies';
 export default function IndexPage() {
   return (
     <ThemeProvider theme={theme}>
+      <meta name="google-site-verification" content="WcEdpViiSARD30IrEKdnAgDJFQ4Uy8-V4YSR7hoeCz0" />
       <StickyProvider>
         <Layout>
           <SEO title="Hin Technologies" />
-          <meta name="google-site-verification" content="WcEdpViiSARD30IrEKdnAgDJFQ4Uy8-V4YSR7hoeCz0" />
           <Banner />
           <Services />
           <BoostAgencies />
