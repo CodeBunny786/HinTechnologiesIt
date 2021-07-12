@@ -12,6 +12,7 @@ import bannerImg from 'assets/banner-image-1-1.png';
 const Banner = () => {
   return (
     <Box sx={styles.banner} id="banner">
+      <meta name="google-site-verification" content="WcEdpViiSARD30IrEKdnAgDJFQ4Uy8-V4YSR7hoeCz0" />
       <Container sx={styles.container}>
         <Grid sx={styles.grid}>
           <Box sx={styles.content}>
