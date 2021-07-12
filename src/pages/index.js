@@ -20,6 +20,7 @@ export default function IndexPage() {
       <StickyProvider>
         <Layout>
           <SEO title="Hin Technologies" />
+          <meta name="google-site-verification" content="WcEdpViiSARD30IrEKdnAgDJFQ4Uy8-V4YSR7hoeCz0" />
           <Banner />
           <Services />
           <BoostAgencies />
